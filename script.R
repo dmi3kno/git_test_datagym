@@ -1,3 +1,3 @@
-#' this is my work
-#' and more of this
-summary(iris3)
+#' Nicely formatted first comment
+#' second comment in script
+summary(iris)
